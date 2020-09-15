@@ -1,4 +1,4 @@
-# Two-actors-who-cast-together-the-most
+# Two actors who cast together the most
 ## SQL challenge for Ironhack TA
 
 
